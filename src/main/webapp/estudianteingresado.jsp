@@ -20,7 +20,7 @@
 <% String asistencia = request.getParameter("asistencia"); %>
 <% String promedio = request.getParameter("promedio"); %>
 <p>Nombre estudiante: <%= nombre %></p>
-<p>Edad: <%= edad %></p>
+<p>Edad: <%= edad %> años</p>
 <p>Rut: <%= rut %></p>
 <p>Cinturon: <%= cinturon %></p>
 <p>Nivel: <%= nivel %></p>

@@ -1,25 +1,45 @@
-body {background-color:darkcyan}
-h1 {font-family: Arial;
+body {
+    background-color:darkcyan;
+    font-family: Arial
+}
+h1 {
     color: black;
     background-color: darkgray;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: auto 450px}
-a {background-color: lightgoldenrodyellow;
+    margin: auto 450px
+}
+a {
+    background-color: lightgoldenrodyellow;
     color: black;
     font-size: larger;
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 0 450px;
-    padding: 20px 40px}
-p {color: beige;
+    padding: 20px 30px
+}
+p {
+    color: beige;
     display: flex;
     justify-content: center;
-    align-items: center;}
-div {color: beige}
+    align-items: center;
+}
+div {
+    color: beige
+}
 h2 {}
-button {border: none;
-        border-radius: 20px/30px;
-        padding: 10px}
+form {
+    display: block;
+    padding: 10px
+}
+label {
+    display: inline-block;
+    width: 160px;
+}
+button {
+    border: none;
+    border-radius: 20px/20px;
+    padding: 10px
+}
