@@ -1,0 +1,25 @@
+body {background-color:darkcyan}
+h1 {font-family: Arial;
+    color: black;
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto 450px}
+a {background-color: lightgoldenrodyellow;
+    color: black;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 450px;
+    padding: 20px 40px}
+p {color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+div {color: beige}
+h2 {}
+button {border: none;
+        border-radius: 20px/30px;
+        padding: 10px}
