@@ -9,6 +9,7 @@
 <html>
 <head>
     <title>Estudiante</title>
+    <link rel="stylesheet" href="styleestudiante.css">
 </head>
 <body>
 <h1>Estudiante Ingresado</h1>
